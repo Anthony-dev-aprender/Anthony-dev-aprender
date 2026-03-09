@@ -1,5 +1,24 @@
-## Hi there 👋
+#  Olá! Me chamo Anthony Reis 
 
+ Estudante de Desenvolvimento de Sistemas  
+ Aprendendo programação e desenvolvimento de software  
+ Futuro desenvolvedor
+
+ Tecnologias que estou aprendendo
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python&logoColor=blue)
+
+
+## 📌 Projetos
+
+🔹 Em breve meus projetos estarão aqui.
+
+
+ Contato
+
+
+Email: anthonyreis1503@gmail.com
 <!--
 **Anthony-dev-aprender/Anthony-dev-aprender** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
